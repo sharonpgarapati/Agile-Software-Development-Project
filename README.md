@@ -3,6 +3,10 @@ This project is an Agile Software Development-based banking application. It foll
 
 # Agile Software Development: Banking App Test Suite Assignment 2024
 
+Author: Sharon P Garapati
+
+Email: G00438803@atu.ie
+
  Overview
 
 This repository contains the Junit5-based automated test suit for the “Banking Application” (banking.java) in Agile Software Development. The project involves refactoring the provided `banking.java` application and developing a comprehensive JUnit 5 test suite that covers every method, including tests for two exception types.
